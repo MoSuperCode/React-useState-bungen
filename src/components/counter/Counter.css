@@ -1,0 +1,16 @@
+.counter {
+    width: 70%;
+    border: solid 10px rgba(0, 0, 0, 0.423);
+    text-align: center;
+    margin: 5% auto;
+}
+
+.counterButton {
+    display: block;
+    margin: 2% auto;
+    width: 20%;
+    padding: 4px 10px;
+    background-color: white;
+    color: rgb(53, 52, 52);
+    border: 1px solid;
+}

@@ -1,0 +1,15 @@
+.faqDiv {
+    background-color: rgb(102, 102, 102);
+    width: 60%;
+    margin: 0 auto;
+    padding: 2%;
+    border: 1px white solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 1px white
+}
+
+.faqP {
+    color: white;
+}

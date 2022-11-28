@@ -1,0 +1,22 @@
+.dayDiv {
+    width: 30%;
+    margin: 1% auto;
+    border: 10px solid rgba(0, 0, 0, 0.541);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    background-color: skyblue;
+}
+
+.nightDiv {
+    width: 30%;
+    margin: 1% auto;
+    border: 10px solid rgba(0, 0, 0, 0.541);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    background-color: rgb(0, 48, 152);
+    color: white;
+}
